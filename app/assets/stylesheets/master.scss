@@ -12,6 +12,7 @@ body {
   border-bottom-style: solid;
   height: 70px;
   padding-top: 15px;
+  margin-bottom: 20px;
 }
 
 .brand {
@@ -58,7 +59,11 @@ body {
 
 label {
   font-size: 18px;
-  font-weight: 400;
+}
+
+input {
+  font-size: 18px;
+  font-weight: 400px; 
 }
 
 .my-btn {
